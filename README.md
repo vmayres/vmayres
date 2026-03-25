@@ -1,70 +1,57 @@
-# Victor Ayres
+<h1 align="center">Victor Ayres</h1>
 
-Olá! Seja bem-vindo ao meu GitHub. 👋
+<p align="center">
+  <strong>Robótica • ROS 2 • Sistemas Embarcados • Visão Computacional</strong>
+</p>
 
-Sou estudante de **Engenharia de Robôs no Centro Universitário FEI**, com foco em **robótica móvel, ROS 2, sistemas embarcados, visão computacional, simulação e integração de software para robôs reais**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/victormayres/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vmayres">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Aqui você vai encontrar projetos, testes e estudos envolvendo **robótica, programação, embarcados, automação e desenvolvimento técnico em geral**.
+<p align="center">
+  Estudante de Engenharia de Robôs na FEI, com foco em robótica móvel, software para robôs reais,
+  simulação, visão computacional e integração entre hardware e software.
+</p>
 
 ---
 
 ## 🤖 Linguagens e Tecnologias
 
+<div align="center">
+
 ### Linguagens
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,matlab" />
 </p>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/ASM-111827?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-111827?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Ferramentas e Plataformas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ros,linux,ubuntu,git,github,raspberrypi,opencv" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,raspberrypi,opencv" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Gazebo-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/ROS_2-0A0F1C?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-0A0F1C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-0A0F1C?style=for-the-badge&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmayres&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmayres&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
-</p>
-
----
-
-## ⚙️ Atuação
-
-- Robótica móvel
-- ROS 2
-- Sistemas embarcados
-- Navegação autônoma
-- Visão computacional
-- Integração hardware/software
-- IA aplicada à robótica
-
----
-
-## 🚀 Projetos e temas de interesse
-
-- Desenvolvimento de robôs móveis para aplicações reais
-- Plataforma **Caramelo** com rodas mecanum
-- Navegação autônoma com ROS 2
-- Manipulação robótica e integração com visão
-- Sistemas embarcados com ESP32 e Raspberry Pi
-- Simulação e validação de robôs em ambiente virtual
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormayres/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/vmayres)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vmayres&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmayres&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
+</div>
